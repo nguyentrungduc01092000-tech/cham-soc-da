@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="220" viewBox="0 0 800 220" role="img" aria-label="Sơ đồ minh họa tần suất tẩy tế bào chết: bắt đầu 1 lần mỗi tuần, tối đa 2 lần mỗi tuần nếu da vẫn bình tĩnh">
+<rect width="800" height="220" fill="#f7f5f0"/>
+<text x="400" y="30" text-anchor="middle" font-family="sans-serif" font-size="20" font-weight="bold" fill="#333">Tần suất tẩy tế bào chết (hình minh họa)</text>
+<rect x="40" y="60" width="320" height="90" rx="10" fill="#dcfce7"/><text x="200" y="100" text-anchor="middle" font-family="sans-serif" font-size="17" font-weight="bold" fill="#14532d">Bắt đầu: 1 lần/tuần</text><text x="200" y="125" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#333">Sản phẩm nhẹ, theo nhãn</text>
+<text x="375" y="110" font-family="sans-serif" font-size="28" fill="#666">→</text>
+<rect x="440" y="60" width="320" height="90" rx="10" fill="#fef3c7"/><text x="600" y="100" text-anchor="middle" font-family="sans-serif" font-size="17" font-weight="bold" fill="#78350f">Tối đa: 2 lần/tuần</text><text x="600" y="125" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#333">Chỉ nếu da vẫn bình tĩnh</text>
+<text x="400" y="185" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#666">AAD không đưa ra một con số cố định. Dừng lại nếu da đỏ, rát hay khô căng.</text>
+</svg>

@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="240" viewBox="0 0 800 240" role="img" aria-label="Sơ đồ minh họa cách xác định loại da: rửa rồi chờ 30 đến 60 phút, quan sát vùng chữ T và hai má">
+<rect width="800" height="240" fill="#f7f5f0"/>
+<text x="400" y="30" text-anchor="middle" font-family="sans-serif" font-size="20" font-weight="bold" fill="#333">Xác định loại da tại nhà (hình minh họa)</text>
+<rect x="40" y="60" width="200" height="110" rx="10" fill="#dbeafe"/><text x="140" y="95" text-anchor="middle" font-family="sans-serif" font-size="16" font-weight="bold" fill="#1e3a5f">1. Rửa mặt</text><text x="140" y="120" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#333">Sữa rửa mặt dịu nhẹ</text><text x="140" y="142" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#333">Không thoa gì thêm</text>
+<text x="255" y="120" font-family="sans-serif" font-size="28" fill="#666">→</text>
+<rect x="300" y="60" width="200" height="110" rx="10" fill="#dcfce7"/><text x="400" y="95" text-anchor="middle" font-family="sans-serif" font-size="16" font-weight="bold" fill="#14532d">2. Chờ 30–60 phút</text><text x="400" y="120" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#333">Quan sát ngay sau khi rửa</text><text x="400" y="142" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#333">Mốc 30–60 phút: rõ hơn</text>
+<text x="515" y="120" font-family="sans-serif" font-size="28" fill="#666">→</text>
+<rect x="560" y="60" width="200" height="110" rx="10" fill="#fef3c7"/><text x="660" y="95" text-anchor="middle" font-family="sans-serif" font-size="16" font-weight="bold" fill="#78350f">3. Quan sát từng vùng</text><text x="660" y="120" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#333">Vùng chữ T và hai má</text><text x="660" y="142" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#333">Bóng, căng hay châm chích?</text>
+<text x="400" y="205" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#666">Đây là cách gợi ý, không chẩn đoán bệnh da. Nguồn: AAD, Medical News Today, Curology.</text>
+</svg>
