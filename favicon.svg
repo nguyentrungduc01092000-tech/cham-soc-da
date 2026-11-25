@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <title>Biểu tượng website Chăm sóc da cơ bản tại nhà</title>
+  <desc>Hình vuông bo góc màu hồng đất, bên trong là một giọt nước trắng — tượng trưng cho dưỡng ẩm.</desc>
+  <rect x="2" y="2" width="60" height="60" rx="14" fill="#8e4a63"/>
+  <path d="M32 12 C32 12 19 29 19 39 a13 13 0 0 0 26 0 C45 29 32 12 32 12 Z" fill="#fff"/>
+  <circle cx="27" cy="40" r="3.5" fill="#f6d9e2"/>
+</svg>
